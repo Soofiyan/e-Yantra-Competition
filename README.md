@@ -18,6 +18,6 @@ First prize winner at National Level e-Yantra Robotics Competition 2018-19 condu
 - **report** - Documentation on the working of the robot and all the task submissions
 - **schematics** - Hardware schematic of the robot and the joystick controller
 
-## Balance Bot
+## Bot
 ![](https://github.com/Soofiyan/e-Yantra-Competition/blob/master/images/Bot_image.png)
 
