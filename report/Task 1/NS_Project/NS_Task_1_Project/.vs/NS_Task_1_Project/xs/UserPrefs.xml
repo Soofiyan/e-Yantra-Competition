@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NS_Task_1/NS_Task_1_Sandbox.cpp">
+    <Files>
+      <File FileName="NS_Task_1/NS_Task_1.cpp" Line="1" Column="1" />
+      <File FileName="NS_Task_1/NS_Task_1_Sandbox.cpp" Line="16" Column="18" />
+      <File FileName="NS_Task_1/NS_Task_1_Sandbox.h" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>NS_Task_1/NS_Task_1.vcxproj</String>
+  </DisabledProjects>
+</Properties>

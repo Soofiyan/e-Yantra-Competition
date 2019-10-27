@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5BAC9EE721EF7CD100AF1662 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.c; };
+		5BAC9EE821EF7CF000AF1662 /* avr_compiler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = avr_compiler.h; sourceTree = "<group>"; };
+		5BAC9EE921EF7D0500AF1662 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		5BAC9EEB21EF7D4800AF1662 /* lcd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcd.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5BAC9EE021EF7CC200AF1662 = {
+			isa = PBXGroup;
+			children = (
+				5BAC9EEB21EF7D4800AF1662 /* lcd.h */,
+				5BAC9EE921EF7D0500AF1662 /* Makefile */,
+				5BAC9EE821EF7CF000AF1662 /* avr_compiler.h */,
+				5BAC9EE721EF7CD100AF1662 /* main.c */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5BAC9EE121EF7CC200AF1662 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1010;
+			};
+			buildConfigurationList = 5BAC9EE421EF7CC200AF1662 /* Build configuration list for PBXProject "eyantra" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5BAC9EE021EF7CC200AF1662;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5BAC9EE521EF7CC200AF1662 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5BAC9EE621EF7CC200AF1662 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5BAC9EE421EF7CC200AF1662 /* Build configuration list for PBXProject "eyantra" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BAC9EE521EF7CC200AF1662 /* Debug */,
+				5BAC9EE621EF7CC200AF1662 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5BAC9EE121EF7CC200AF1662 /* Project object */;
+}
